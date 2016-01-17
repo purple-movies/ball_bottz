@@ -1,0 +1,3 @@
+[submodule "Assets/fort-purple-repository"]
+	path = Assets/fort-purple-repository
+	url = https://github.com/purple-movies/fort-purple-inventory
